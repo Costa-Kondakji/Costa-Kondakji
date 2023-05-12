@@ -5,18 +5,16 @@
   </ul>
 </div>
 
-
 <!--- snake -->
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">About me</h2></summary>
   </ul>
 </div>
 
@@ -39,13 +37,18 @@
 </div>
 <!--tech stack icons-->
 <div>
-  <h2 style="display: inline-block">Front-End</h2>
-</div>
-<p align="center">
+  <h3>Front-End:</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,angular,css,scss,html,bootstrap,jquery" />
+    <img src="https://skillicons.dev/icons?i=react,angular,css,scss,html,bootstrap,jquery,jest,materialui" />
   </a>
-</p>
+</div>
+
+<div>
+  <h3>Back-End:</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,java,c,kafka" />
+  </a>
+</div>
 
 
 <!-- Connect with me -->
